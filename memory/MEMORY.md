@@ -1,0 +1,1 @@
+- [Learning opportunities after commits](feedback_learning_opportunities.md) — offer exercises after commits with new patterns; don't skip the hook
